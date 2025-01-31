@@ -1,8 +1,6 @@
 # Overview
 
-Welcome to the "chatpdf-yt" project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
-
-hi this is a test change!
+Welcome to the "PdfGenie" project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
 
 # Technologies and Frameworks
 
@@ -36,13 +34,13 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Elliott-Chong/chatpdf-yt.git
+   https://github.com/whosensei/PdfGenie.git
    ```
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd chatpdf-yt
+   cd PdfGenie
    ```
 
 3. **Install Node.js**
